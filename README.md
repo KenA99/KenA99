@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently an administrative specialist with the Commonwealth of Kentucky. I am learning coding for fun to automate the more repetitive tasks of my job and to begin delving into data analytics using Python, and a bit of web development with HTML/CSS/JavaScript for fun. This GitHub is a way to track my pet projects, and possibly launch a career change into data analytics should the opportunity present itself.
+
+Any questions or comments about this GitHub and its contents can be directed to adamsdataanalytics@gmail.com. 
+
 <!--
 **KenA99/KenA99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
